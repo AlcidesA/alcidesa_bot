@@ -1,0 +1,19 @@
+{
+  "name": "alcidesa_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlcidesA/alcidesa_bot.git"
+  },
+  "author": "Alcides Augusto <alcidesa.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlcidesA/alcidesa_bot/issues"
+  },
+  "homepage": "https://github.com/AlcidesA/alcidesa_bot#readme"
+}
